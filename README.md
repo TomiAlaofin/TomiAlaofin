@@ -1,5 +1,4 @@
-
--👋 The name's Tomi 
+- 👋 The name's Tomi 
 - 🔭👀 Currently Yearning to be a Full Stack developer
 - 💻Major in electrical and computer engineering
 - 🤝 Interested in collaborating on Opensource projects
