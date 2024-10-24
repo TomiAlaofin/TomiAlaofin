@@ -2,5 +2,5 @@
 - 🔭👀 Currently yearning to be a Embedded systems and Computer architecture engineer
 - 💻Major in electrical and computer engineering
 - 🤝 Interested in collaborating on Opensource projects
-- 📌 You can reach me on LinkedIn/Twitter
+- 📌 You can reach me on LinkedIn
 - ⚡ Fun fact about me: I forgot
