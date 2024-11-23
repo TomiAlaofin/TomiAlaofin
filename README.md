@@ -1,6 +1,6 @@
 - 👋 The name's Tomi 
-- 🔭👀 Currently yearning to be a Embedded systems and Computer architecture engineer
+- 🔭👀 Currently yearning to be a Software Engineer/ Data Scientist
 - 💻Major in electrical and computer engineering
 - 🤝 Interested in collaborating on Opensource projects
 - 📌 You can reach me on LinkedIn
-- ⚡ Fun fact about me: I forgot
+- ⚡ Fun fact about me: I can control my inner ear muscles and blur my vision at will
