@@ -1,6 +1,4 @@
 - 👋 The name's Tomi 
-- 🔭👀 Currently yearning to be a Software Engineer/ Data Scientist
-- 💻Major in electrical and computer engineering
-- 🤝 Interested in collaborating on Opensource projects
-- 📌 You can reach me on LinkedIn
+- 🔭👀 I help make your life easier so you have one less thing to worry about
+- 📌 You can reach me on LinkedIn and Instagram
 - ⚡ Fun fact about me: I can control my inner ear muscles and blur my vision at will
